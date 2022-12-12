@@ -1,0 +1,12 @@
+
+.NavigationBar__Heading {
+    color: rgb(146, 219, 133);
+    background-color: teal;
+    font-style: oblique;
+}
+
+.NavigationBar {
+    background-color: blueviolet;
+    color: brown;
+    list-style-type: square;
+}
